@@ -6,4 +6,4 @@ Caffe is a deep learning framework made with expression, speed, and modularity i
 
 ### 본 문서는 Azure NC or NV 시리즈의 CentOS 상에 Caffe를 설치하기 위한 가이드문서입니다.
 
-### 설치 방법은 Wiki 탭을 참조
+[<시작 페이지 가기>](https://github.com/ghahm/Caffe-on-Azure-NC-NV-Series-with-CentOS/wiki)
